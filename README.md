@@ -5,7 +5,7 @@
 - 👋 Hey there, nice to meet you! I am originally a chef with a degree in Economics that's decided to shake things up once more
 - 🌱 Currently I'm building my skills in web development with Javascript/Typescript, React, Python, Django and DRF
 - :nerd_face: A few things I get nerdy about:
-  - :cat_face: Cats (also any animal)
+  - :smiling_cat_with_heart_eyes: Cats (also any animal)
   - :alien_monster: Coding
   - :video_game: Gaming (xbox)
   - :crossed_swords: Dungeons and Dragons
