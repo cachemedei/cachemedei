@@ -1,16 +1,14 @@
-## Hi there 👋
+### What do you call a chef that thinks they can code?
+## Caitlin of course 😄 
 
-<!--
-**cachemedei/cachemedei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hey there, nice to meet you! I am originally a chef with a degree in Economics that's decided to shake things up once more
+- 🌱 Currently I'm building my skills in web development with Javascript/Typescript, React, Python, Django and DRF
+- :nerd_face: A few things I get nerdy about:
+  - :cat_face: Cats (also any animal)
+  - :alien_monster: Coding
+  - :video_game: Gaming (xbox)
+  - :crossed_swords: Dungeons and Dragons
+  - :open_book: Reading all the fantasy (yes I mean Brandon Sanderson)
+  - :ghost: Horror
+  
