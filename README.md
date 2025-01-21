@@ -7,7 +7,7 @@
 - :nerd_face: A few things I get nerdy about:
   - :ghost: Horror
   - :video_game: Gaming (xbox)
-  - :grinning_cat: Cats
+  - :cat: Cats
   - :crossed_swords: Dungeons and Dragons
   - :open_book: Reading all the fantasy (yes I mean Brandon Sanderson)
   - :robot: Coding
