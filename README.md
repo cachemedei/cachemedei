@@ -5,10 +5,10 @@
 - 👋 Hey there, nice to meet you! I am originally a chef with a degree in Economics that's decided to shake things up once more
 - 🌱 Currently I'm building my skills in web development with Javascript/Typescript, React, Python, Django and DRF
 - :nerd_face: A few things I get nerdy about:
-  - :smiling_cat_with_heart_eyes: Cats (also any animal)
-  - :alien_monster: Coding
+  - :ghost: Horror
   - :video_game: Gaming (xbox)
+  - :grinning_cat: Cats
   - :crossed_swords: Dungeons and Dragons
   - :open_book: Reading all the fantasy (yes I mean Brandon Sanderson)
-  - :ghost: Horror
+  - :robot: Coding
   
